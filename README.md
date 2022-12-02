@@ -37,6 +37,7 @@ Switching on the camera in the goose habitat...
   <`-       (__< <           :
    (__        (_<_<          ;
     `------------------------------------------
+
 The goose is staring intently at you... Maybe it's time to change the channel?
 Please enter the number of the habitat you would like to view: > 1
 
@@ -55,6 +56,7 @@ WMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
           /  .'             /  (       .'  /     Ww._     `.  `"
          /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
         (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
+
 The lion is roaring!
 Please enter the number of the habitat you would like to view: > exit
 See you later!
